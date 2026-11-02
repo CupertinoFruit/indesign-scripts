@@ -1,2 +1,2 @@
 # InDesign
-Collection of my InDesign scripts
+Collection of my InDesign scripts.
